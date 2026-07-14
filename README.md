@@ -20,12 +20,12 @@ This project demonstrates a complete ArcGIS Pro workflow for georeferencing a hi
 
 ### Original Historic Map
 
-(Add image later)
+![Original Historic Map](original-map.jpeg)
 
 ### Georeferenced Map
 
-(Add image later)
+![Georeferenced Map](georeferenced-map.jpeg)
 
 ### 3D Hillshade
 
-(Add image later)
+![3D Hillshade](3d-hillshade.jpeg)
