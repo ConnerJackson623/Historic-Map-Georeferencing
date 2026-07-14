@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project demonstrates how I georeferenced a historic topographic map using ArcGIS Pro.
-
-## Skills Demonstrated
+This project demonstrates a complete ArcGIS Pro workflow for georeferencing a historic topographic map, extracting elevation data, creating a hillshade, and blending the results to visualize terrain while preserving the original map.
 
 - Georeferencing
 - Control Point Management
@@ -15,3 +13,19 @@ This project demonstrates how I georeferenced a historic topographic map using A
 ## Files
 
 - Finding and Georeferencing a Vintage Map Image.pdf
+- Extracting Elevation Data to Match Your Map.pdf
+- Creating a Hillshade and Blending it With Your Vintage Map.pdf
+
+## Project Workflow
+
+### Original Historic Map
+
+(Add image later)
+
+### Georeferenced Map
+
+(Add image later)
+
+### 3D Hillshade
+
+(Add image later)
